@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 100px;
+    background-color:rgb(15, 15, 15);
+}
+.container{
+    width: 80%;
+}
+h1{
+    color: green;
+    text-align: left;
+}
+h3{
+    color: beige;
+}
+h4{
+    color: white;
+    text-align: left;
+}
+hr{
+    color: beige;
+}
+label{
+    color:beige
+}
+input{
+    margin-right: 20px;
+}
+.items{
+    display: flex;
+}
+.item{
+    width: fit-content;
+}
+#adres{
+    width: 100%;
+}
+table{
+    color: blanchedalmond;
+    border-collapse: collapse;
+}
+th{
+    padding: 15px 20px;
+    border: 1px solid goldenrod;
+}
+td{
+    padding: 10px 15px;
+    border: 1px solid goldenrod;
+}
+.circles{
+    display: flex;
+    color: beige;
+}
+.circle{
+    margin: 0 10px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    color: beige;
+    border-radius: 50%;
+}
+.number{
+    margin: 12px 15px;
+}
+p{
+    margin: 0 15px;
+}
+button{
+    padding: 10px 15px;
+}
